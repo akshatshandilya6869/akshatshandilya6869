@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/akshat-shandilya-234707223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/akshat-shandilya-234707223" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/[akshat-shandilya-234707223" ](https://www.linkedin.com/in/akshat-shandilya-234707223/)target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/akshat-shandilya-234707223" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aksha8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aksha8" height="30" width="40" /></a>
 </p>
 
