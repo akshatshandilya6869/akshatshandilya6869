@@ -1,8 +1,4 @@
 
-](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif
-<h1 align="center">Hi 👋, I'm Akshat Shandilya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif
 <h1 align="center">Hi 👋, I'm Akshat Shandilya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="8b35fef55fba1a201c9c7a11d3ec3d64.gif">
